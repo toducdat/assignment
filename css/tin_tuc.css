@@ -1,0 +1,83 @@
+.neww{
+	width: 890px;
+}
+.neww h2{
+	padding: 10px;
+    padding-left: 20px;
+    font-size: 26px;
+    color: blue;
+}
+.neww-1{
+	position: relative;
+	width: 850px;
+	margin: 10px auto;
+}
+.neww-1 img{
+	width: 850px;
+	height: 400px;
+	opacity: 0.8;
+}
+.neww-1 h5{
+	position: absolute;
+	bottom:5%;
+	left: 15%;
+	font-size: 26px;
+	color: black;
+}
+.new-2{
+	width: 270px;
+	float: left;
+	margin-left: 20px;
+}
+.new-2 img{
+	width: 270px;
+	height: 200px;
+}
+.new-2 h4{
+	margin: 10px 0;
+	color: #3c3838;
+	font-size: 18px;
+	line-height: 24px;
+    word-spacing: 1px;
+}
+.new-list{
+	padding-top: 25px;
+	width: 890px;
+	height: 900px;
+}
+.new-list ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.new-list ul li{
+	padding: 15px 0;
+	padding-top: 35px;
+	clear: both;
+}
+.new-list ul li .left{
+	width: 310px;
+	float: left;
+	padding-left: 15px;
+}
+.new-list ul li .left img{
+	width: 300px;
+	height: 200px;
+}
+.new-list ul li .right{
+	width: 560px;
+	float: right;
+}
+.new-list ul li .right h4{
+	color: #3c3838;
+	font-size: 18px;
+	line-height: 24px;
+    word-spacing: 1px;
+    margin-bottom: 7px;
+}
+.new-list ul li .right p{
+	line-height: 24px;
+	word-spacing: 2px;
+	font-size: 17px;
+	font-style: italic;
+}

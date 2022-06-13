@@ -1,0 +1,112 @@
+
+h1{
+    padding: 5px;
+    color: red;
+}
+.form{
+    margin-left: 16%;
+    width: 500px;
+    margin-top: 30px;
+}
+.input1{
+    width: 400px;
+    height: 25px;
+    border-radius: 5px;
+    background-color: rgb(230, 230, 244);
+}
+.email{
+    width: 400px;
+    height: 25px;
+    border-radius: 5px;
+    background-color: rgb(230, 230, 244);;
+}
+.gioi_tinh{
+    width: 380px;
+    height: 18px;
+    border-radius: 5px;
+}
+.favourite{
+    width: 380px;
+    height: 18px;
+    border-radius: 5px;
+}
+textarea{
+    border-radius: 5px;
+    background-color: rgb(230, 230, 244);;
+}
+.dang_ki{
+    border: 3px solid #66CCFF;
+    margin: auto;
+    width: 600px;
+    height: 650px;
+    border-radius: 10px;
+    box-shadow: 8px 8px #C6E2FF;
+    background-color: #FFFAF0;
+    
+}
+.quoc_tich{
+    width: 410px;
+    height: 35px;
+    border-radius: 5px;
+    background-color: rgb(230, 230, 244);
+}
+fieldset{
+    background-color: rgb(230, 230, 244);
+}
+.fom2{
+    margin-left: 16%;
+    width: 800px;
+    margin-top: 30px;
+}
+.dang_nhap{
+    border: 3px solid #66CCFF;
+    margin: auto;
+    width: 250px;
+    height: 200px;
+    border-radius: 10px;
+    box-shadow: 8px 8px #C6E2FF;
+    background-color: #FFFAF0;
+    margin-top: 5px;
+}
+.input2{
+    width: 200px;
+    height: 25px;
+    border-radius: 5px;
+    background-color: rgb(230, 230, 244);
+    margin: 5px;
+    padding: 0 0 5px 5px;
+
+}
+.form-hover{
+    color: blue;
+    box-shadow: inset 0 0 20px blue;
+}
+.form-button:hover{
+    color: blue;
+    box-shadow: 0 0 20px orangered;
+}
+.form-button:disabled{
+   color: darkgray;
+   box-shadow:inset 0 0 20px gray ;
+}
+.form-button{
+    padding: 8px 30px;
+    outline: none;
+    border:none;
+    border-radius:20px;
+    font-weight:bold;
+    background-color:white;
+    color:orangered;
+    box-shadow:inset 0 0 20px blue;
+}
+.form-button:disabled{
+    color: darkgray;
+    box-shadow:inset 0 0 20px gray ;
+}
+
+form> .bang1{
+    padding: 2px;
+    margin: auto;
+
+}
+

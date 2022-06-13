@@ -1,0 +1,71 @@
+
+input[type=text], select {
+  width: 100%;
+  padding: 8px 10px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: blue;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 18px;
+  transition: 0.4s;
+}
+
+input[type=submit]:hover {
+  background-color: red;
+}
+label{
+  font-weight: bold;
+  margin-top: 8px;
+  display: inline-block;
+}
+textarea{
+  padding: 10px 15px;
+  font-size: 18px;
+  border-radius: 10px;
+}
+.contact1 {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+  margin-left:10px;
+}
+.contact1 h4{
+   padding: 10px;
+    padding-left: 0;
+    font-size: 26px;
+    color: blue;
+}
+.contact2 h4{
+    padding: 10px;
+    padding-left: 0;
+    font-size: 26px;
+    color: blue;
+}
+.contact2{
+  border-radius: 5px;
+  margin-top: 10px;
+  margin-left:10px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+.contact2 p{
+  margin:10px 0;
+}
+.contact2 span{
+  font-weight: bold;
+}
+.map {
+  box-shadow: 5px -10px 5px #ccc;
+}
